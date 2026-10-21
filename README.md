@@ -92,11 +92,3 @@ Performed correlation analysis revealing a weak negative relationship, indicatin
 This project demonstrates how SQL-driven exploratory analysis combined with interactive Power BI visualization can transform large-scale health data into actionable insights. The findings highlight key demographic and lifestyle patterns associated with depression risk and showcase practical data analytics techniques applicable to real-world decision-making.
 
 ---
-
-## 👤 Author
-
-**Debabrata Debnath**  
-B.Tech — Computer Science & Business Systems  
-Techno Main Salt Lake
-
----
